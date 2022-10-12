@@ -1,5 +1,3 @@
-<h1 align="center">Hello There 👋</h1>
-
 [![Social Banner Darirak](https://github.com/darirak/darirak/blob/main/assets/banner.png)](https://darirak.ro)
 
 ---

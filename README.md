@@ -73,13 +73,13 @@
     <tbody>
         <tr>
             <td><a href="https://darirak.ro/">
-            <img height="50" src="https://i.imgur.com/9LvPQk0.png" />
+            <img height="50" src="https://i.imgur.com/yQKIJGc.png" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/darirak/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://i.imgur.com/T9kBnUK.png" />
             </a></td>
             <td><a href="https://www.discord.com/users/315787885158727691/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"/>
+            <img height="50" src="https://i.imgur.com/Wtrm8aO.png"/>
             </a></td>
         </tr>
     </tbody>

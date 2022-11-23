@@ -3,9 +3,9 @@
 ---
 
 # Projects :notebook::
-<li><a href="https://github.com/darirak/wordle-js" target="_blank">Wordle Clone - Vanilla JavaScript</li> 
-<li><a href="https://github.com/darirak/facebook-clone" target="_blank">Facebook Clone - React Next.js</li> 
-<li><a href="https://github.com/darirak/SO-Proiect-Demo" target="_blank">Tip-The-Trip</li> 
+<li><a href="https://github.com/darirak/wordle-js" target="_blank">Wordle Clone - Vanilla JavaScript & DB</li> 
+<li><a href="https://github.com/darirak/facebook-clone" target="_blank">Facebook Clone - React, Next & DB</li> 
+<li><a href="https://github.com/darirak/SO-Proiect-Demo" target="_blank">Tip-The-Trip - TS, Angular & Ionic</li> 
 <li><a href="https://github.com/darirak/angi-react-shop" target="_blank">React Shop</li>
 <li><a href="https://github.com/darirak/complete-javascript-course/tree/master/18-forkify/starter" target="_blank">Forkify App</a></li>
 <li><a href="https://github.com/darirak/complete-javascript-course/tree/master/13-Advanced-DOM-Bankist/starter" target="_blank">Bankist Site</a></li>

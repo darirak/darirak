@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/darirak"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/04zoq9A.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="angi@darirak.ro"><img width="32px" alt="Mail" title="Mail Me" src="https://i.imgur.com/vuIvWcL.png"/></a>
+  <a href="mailto:angi@darirak.ro"><img width="32px" alt="Mail" title="Mail Me" src="https://i.imgur.com/vuIvWcL.png"/></a>
 </p>
 
 <!--- <br/>

@@ -185,9 +185,10 @@
 --->
 # GitHub Stats & Activity 📊:
 
+  <a><img alt="darirak's Github Stats" src="https://github-readme-stats-darirak.vercel.app/api/?username=darirak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=006AFF&icon_color=006AFF" height="192px"/></a>
+  <a><img alt="darirak's Top Languages" src="https://github-readme-stats-darirak.vercel.app/api/top-langs/?username=darirak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=006AFF&icon_color=006AFF&hide=Jupyter%20Notebook,Roff" width="353.67" height="192px"/></a>
+  
 <div align="center">
-  <img alt="darirak's Github Stats" src="https://github-readme-stats-darirak.vercel.app/api/?username=darirak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=006AFF&icon_color=006AFF" height="192px"/>
-  <img alt="darirak's Top Languages" src="https://github-readme-stats-darirak.vercel.app/api/top-langs/?username=darirak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=006AFF&icon_color=006AFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darirak&theme=transparent&hide_border=true"/>
 </div>
 
